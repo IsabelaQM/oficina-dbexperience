@@ -14,5 +14,5 @@ Após a criação do esquema lógico, realize a criação do Script SQL para cri
 <h2> Diretrizes </h2>
 - Não há um mínimo de queries a serem realizadas;
 - Os tópicos supracitados devem estar presentes nas queries;
-- Elabore perguntas que podem ser respondidas pelas consultas
+- Elabore perguntas que podem ser respondidas pelas consultas;
 - As cláusulas podem estar presentes em mais de uma query.
